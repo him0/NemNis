@@ -3,5 +3,5 @@
 require "bundler/setup"
 require "nem_nis"
 
-require "irb"
-IRB.start
+require "pry"
+pry.start

@@ -1,5 +1,3 @@
 require "nem_nis/version"
-
-module NemNis
-  # Your code goes here...
-end
+require "nem_nis/node.rb"
+require "nem_nis/utils.rb"
