@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "nem_nis"
   spec.version       = NemNis::VERSION
   spec.authors       = ["him0"]
-  spec.email         = ["hiroki-nakashima@c-fo.com"]
+  spec.email         = ["nakashimaorz@gmail.com"]
 
   spec.summary       = %q{NEM NIS Client Library gem}
   spec.description   = %q{You can use all the function with this gem.}
