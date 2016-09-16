@@ -33,3 +33,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/him0/n
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+## Reference
+
++ [NEM NIS API Documentation](http://bob.nem.ninja/docs/)
